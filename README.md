@@ -1,1 +1,5 @@
-# pattern-school
+# PATTERN.SCHOOL
+
+Generative art maker
+
+
